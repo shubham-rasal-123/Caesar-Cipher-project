@@ -12,12 +12,9 @@ The script was created with [Python3](https://www.python.org/downloads) and the 
 
 ## 🌟 How to run
 
-```
-python3 caesarcypher.py 
-Enter string to decrypt: hello
-khoor
++ `python3 caesarcypher.py` 
++ `Enter string to decrypt: hello  -->  khoor`
 
-```
 
 ## 📺 Demo
 
